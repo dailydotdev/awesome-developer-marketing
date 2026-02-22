@@ -251,7 +251,6 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DevRel Bridge](https://devrelbridge.com) - Fractional DevRel agency providing content, community, events, and DX strategy without long-term contracts.
 - [Hoopy](https://hoopy.io) - DevRel consultancy offering strategy, audits, training, and content production, known for running the DevRelCon event series.
 - [DevRel.Agency](https://devrel.agency) - Developer experience audits and developer-led growth consulting, also runs the annual State of Developer Relations survey.
-- [EveryDeveloper](https://everydeveloper.com) - Developer content strategy consultancy led by Adam DuVander, author of Developer Marketing Does Not Exist.
 - [Devrella](https://devrella.com) - Boutique agency focused on developer marketing, branding, and community adoption for developer-first SaaS startups.
 - [Growtika](https://growtika.com) - Developer-focused marketing agency specializing in B2D strategy, SEO, and technical content.
 - [Freeman & Forrest](https://freemanandforrest.com) - Tech influencer marketing agency with an outcomes-based pricing model for event promotion and social campaigns.
