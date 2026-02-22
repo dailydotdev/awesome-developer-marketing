@@ -109,7 +109,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 
 *Where developers spend their time online and find new tools.*
 
-- [daily.dev](https://daily.dev) - Developer content network where millions of developers find programming news and tools.
+- [daily.dev](https://app.daily.dev) - Developer content network where millions of developers find programming news and tools.
 - [Hacker News](https://news.ycombinator.com) - Y Combinator's link aggregation and discussion forum for technology and startups.
 - [Reddit](https://www.reddit.com) - Social platform with active developer subreddits including r/programming, r/webdev, r/devops, and r/experienceddevs.
 - [Stack Overflow](https://stackoverflow.com) - Q&A platform where developers ask and answer technical questions across every major language and framework.
@@ -234,9 +234,9 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DevRelCon](https://devrelcon.dev) - Conference series focused on developer relations strategy, tooling, and practice.
 - [CMX Summit](https://cmxhub.com) - Annual conference for community builders and community-led growth practitioners.
 - [GitHub Universe](https://githubuniverse.com) - GitHub's annual developer conference for product launches and community engagement.
-- [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) - CNCF's flagship conference for cloud native technology with major sponsor and expo presence.
+- [KubeCon + CloudNativeCon](https://www.cncf.io/kubecon-cloudnativecon-events/) - CNCF's flagship conference for cloud native technology with major sponsorship and exhibition presence.
 - [Web Summit](https://websummit.com) - Large technology conference with developer-focused tracks and startup programs.
-- [DeveloperWeek](https://www.developerweek.com) - Multi-track developer conference with workshops, hiring expo, and product showcases.
+- [DeveloperWeek](https://www.developerweek.com) - Multi-track developer conference with workshops, hiring fair, and product showcases.
 - [Collision](https://collisionconf.com) - Technology conference in Toronto with developer and SaaS-focused programming.
 - [All Things Open](https://allthingsopen.org) - Open source technology conference covering community, adoption, and developer tooling.
 
@@ -282,15 +282,11 @@ The usual marketing tactics don't work on developers. They decide what to use by
 *Reference guides, methodologies, and frameworks for developer marketing.*
 
 - [The Developer Advocacy Handbook](https://developer-advocacy.com) - Christian Heilmann's free online guide to developer advocacy practices and strategy.
-- [SlashData Developer Marketing](https://www.slashdata.co) - Business-to-developer marketing research, frameworks, and developer ecosystem reports.
 - [Community-Led Growth by Commsor](https://www.commsor.com) - Framework and resources for using developer community as a growth engine.
-- [Developer Marketing Guide](https://developermarketing.io) - Resource site and guides on developer marketing practices by Adam DuVander.
+- [How to Market to Developers by Heavybit](https://www.heavybit.com/library/blog/how-to-market-to-developers) - Practical primer on developer marketing fundamentals from the Heavybit accelerator.
 - [DevRel Collective Resources](https://devrelcollective.fun) - Community-curated collection of developer relations tools, articles, and speaking resources.
 
 ## Contributing
 
 Please read the [contribution guidelines](contributing.md) before submitting a pull request.
 
-## Last Verified
-
-List links and descriptions were last verified in **2026-02**.
