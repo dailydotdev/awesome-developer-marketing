@@ -33,8 +33,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 
 *Paid ad networks and platforms for reaching developer audiences.*
 
-- [Carbon Ads](https://www.carbonads.net) - Ad network placing small text and image ads on developer and design websites.
-- [BuySellAds](https://www.buysellads.com) - Ad marketplace connecting advertisers with developer and tech publisher inventory.
+- [BuySellAds](https://www.buysellads.com) - Ad marketplace connecting advertisers with developer and tech publisher inventory, also operates the Carbon Ads network.
 - [daily.dev Ads](https://business.daily.dev) - Native advertising platform for reaching developers through in-feed and email digest placements across the daily.dev network.
 - [EthicalAds](https://www.ethicalads.io) - Privacy-focused ad network for developer sites, run by the team behind Read the Docs.
 - [Stack Overflow Advertising](https://stackoverflow.co/advertising) - Advertising products targeting developers by technology tags on Stack Overflow.
