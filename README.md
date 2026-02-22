@@ -209,6 +209,8 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [State of JS](https://stateofjs.com) - Annual survey tracking JavaScript ecosystem trends, frameworks, and developer satisfaction.
 - [State of CSS](https://stateofcss.com) - Annual survey on CSS features, tooling, and developer preferences.
 - [Evans Data Developer Survey](https://evansdata.com) - Developer population research covering global workforce trends and technology adoption.
+- [DORA State of DevOps Report](https://dora.dev) - Google's annual research on DevOps practices, team performance, and software delivery metrics.
+- [RedMonk Programming Language Rankings](https://redmonk.com/sogrady/category/programming-languages/) - Quarterly language popularity rankings based on GitHub and Stack Overflow activity.
 
 ## Social Media for Developers
 
@@ -293,6 +295,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Developer, Advocate!](https://www.packtpub.com/en-us/product/developer-advocate-9781789138740) - Conversations with developer advocates about building careers in DevRel, edited by Geertjan Wielenga.
 - [Developer Relations](https://www.devrelbook.com) - Caroline Lewko and James Parton's guide to building and growing a developer relations program.
 - [Getting Started in Developer Relations](https://www.samjulien.com) - Sam Julien's ebook on breaking into and succeeding in developer relations.
+- [Picks and Shovels](https://www.strategicnerds.com/book) - Prashant Sridharan's guide to marketing developer tools during the AI era.
 
 ## Blogs, Newsletters, and Podcasts
 
