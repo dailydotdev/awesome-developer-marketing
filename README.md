@@ -23,6 +23,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Social Media for Developers](#social-media-for-developers)
 - [Video and Podcasting](#video-and-podcasting)
 - [Events and Conferences](#events-and-conferences)
+- [Developer Marketing Agencies](#developer-marketing-agencies)
 - [Case Studies](#case-studies)
 - [Books](#books)
 - [Blogs and Newsletters](#blogs-and-newsletters)
@@ -239,6 +240,32 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DeveloperWeek](https://www.developerweek.com) - Multi-track developer conference with workshops, hiring fair, and product showcases.
 - [Collision](https://collisionconf.com) - Technology conference in Toronto with developer and SaaS-focused programming.
 - [All Things Open](https://allthingsopen.org) - Open source technology conference covering community, adoption, and developer tooling.
+
+## Developer Marketing Agencies
+
+*Agencies and consultancies specializing in marketing to developer audiences.*
+
+- [Catchy](https://catchyagency.com) - Full-cycle developer marketing agency offering GTM strategy, demand generation, and developer experience services.
+- [Draft.dev](https://draft.dev) - Technical content agency with a network of 300+ engineer-writers producing blog posts, tutorials, and video for developer tool companies.
+- [Dev Spotlight](https://devspotlight.com) - Enterprise-focused technical content production covering blogs, whitepapers, ebooks, and tutorials.
+- [DevRel Bridge](https://devrelbridge.com) - Fractional DevRel agency providing content, community, events, and DX strategy without long-term contracts.
+- [Hoopy](https://hoopy.io) - DevRel consultancy offering strategy, audits, training, and content production, known for running the DevRelCon event series.
+- [DevRel.Agency](https://devrel.agency) - Developer experience audits and developer-led growth consulting, also runs the annual State of Developer Relations survey.
+- [EveryDeveloper](https://everydeveloper.com) - Developer content strategy consultancy led by Adam DuVander, author of Developer Marketing Does Not Exist.
+- [Devrella](https://devrella.com) - Boutique agency focused on developer marketing, branding, and community adoption for developer-first SaaS startups.
+- [Growtika](https://growtika.com) - Developer-focused marketing agency specializing in B2D strategy, SEO, and technical content.
+- [Freeman & Forrest](https://freemanandforrest.com) - Tech influencer marketing agency with an outcomes-based pricing model for event promotion and social campaigns.
+- [Literally.dev](https://literally.dev) - Agency specializing in technical documentation, example applications, and developer adoption strategy.
+- [Hackmamba](https://hackmamba.io) - Technical content marketing agency with a focus on documentation-driven growth and developer SEO.
+- [ércule](https://ercule.com) - Content strategy agency focused on SEO, analytics, and editorial workflows for technology companies.
+- [Wizard on Demand](https://wizardondemand.com) - Boutique agency offering content marketing and paid media services for developer tools.
+- [Campfire Labs](https://campfirelabs.co) - Agency producing technical thought leadership content for technology companies.
+- [Growth Plays](https://growthplays.com) - GTM strategy and content consultancy for technical B2B SaaS companies.
+- [Infrasity](https://infrasity.com) - Technical content marketing agency offering startup-friendly pricing for B2B SaaS.
+- [Open Strategy Partners](https://openstrategypartners.com) - B2B technology marketing agency specializing in messaging, content strategy, and thought leadership.
+- [DeveloperMedia](https://developermedia.com) - Media company focused on reaching developer decision-makers through advertising and audience research.
+- [Meridian DevRel](https://meridiandevrel.com) - Fractional DevRel leadership and content creation with tiered monthly packages.
+- [Edify Content](https://edifycontent.com) - Technical content agency with a credit-based pricing model focused on landing pages and lead generation.
 
 ## Case Studies
 
