@@ -67,6 +67,11 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Hacker Newsletter](https://hackernewsletter.com) - Weekly curated digest of the top stories from Hacker News.
 - [Software Lead Weekly](https://softwareleadweekly.com) - Weekly newsletter for engineering managers and technical leaders.
 - [This Week in React](https://thisweekinreact.com) - Weekly newsletter covering React, React Native, and the surrounding ecosystem.
+- [Quastor](https://www.quastor.org) - Backend engineering newsletter covering system design, data engineering, and distributed systems.
+- [iOS Dev Weekly](https://iosdevweekly.com) - Hand-picked roundup of the best iOS development links delivered weekly.
+- [Last Week in AWS](https://www.lastweekinaws.com/newsletter) - Weekly newsletter covering AWS news, changes, and cloud infrastructure updates.
+- [CSS Weekly](https://css-weekly.com) - Weekly roundup of CSS articles, tutorials, experiments, and tools.
+- [Kotlin Weekly](http://www.kotlinweekly.net) - Weekly newsletter covering Kotlin development, libraries, and ecosystem news.
 
 ## Content Marketing Platforms
 
