@@ -85,6 +85,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DZone](https://dzone.com) - Developer knowledge platform with community-contributed articles on Java, DevOps, and cloud.
 - [InfoQ](https://www.infoq.com) - Technology media platform covering software development practices and architecture.
 - [SitePoint](https://www.sitepoint.com) - Web development publisher with tutorials, books, and community forums.
+- [daily.dev Squads](https://docs.daily.dev/docs/squads/creating-your-squad) - Group publishing feature on daily.dev for creating developer-focused communities around topics, projects, or teams.
 
 ## Newsletter Platforms
 
