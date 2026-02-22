@@ -21,19 +21,19 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Analytics and Attribution](#analytics-and-attribution)
 - [Market Research](#market-research)
 - [Social Media for Developers](#social-media-for-developers)
-- [Video and Podcasting](#video-and-podcasting)
+- [Video and Streaming Tools](#video-and-streaming-tools)
 - [Events and Conferences](#events-and-conferences)
+- [Developer Marketing Agencies](#developer-marketing-agencies)
 - [Case Studies](#case-studies)
 - [Books](#books)
-- [Blogs and Newsletters](#blogs-and-newsletters)
+- [Blogs, Newsletters, and Podcasts](#blogs-newsletters-and-podcasts)
 - [Guides and Frameworks](#guides-and-frameworks)
 
 ## Developer Advertising Platforms
 
 *Paid ad networks and platforms for reaching developer audiences.*
 
-- [Carbon Ads](https://www.carbonads.net) - Ad network placing small text and image ads on developer and design websites.
-- [BuySellAds](https://www.buysellads.com) - Ad marketplace connecting advertisers with developer and tech publisher inventory.
+- [BuySellAds](https://www.buysellads.com) - Ad marketplace connecting advertisers with developer and tech publisher inventory, also operates the Carbon Ads network.
 - [daily.dev Ads](https://business.daily.dev) - Native advertising platform for reaching developers through in-feed and email digest placements across the daily.dev network.
 - [EthicalAds](https://www.ethicalads.io) - Privacy-focused ad network for developer sites, run by the team behind Read the Docs.
 - [Stack Overflow Advertising](https://stackoverflow.co/advertising) - Advertising products targeting developers by technology tags on Stack Overflow.
@@ -49,6 +49,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Passionfroot](https://www.passionfroot.me) - Platform for booking sponsorships with developer content creators and newsletters.
 - [AdvertiseCast](https://www.advertisecast.com) - Podcast advertising marketplace with tech and developer show inventory.
 - [Podcorn](https://podcorn.com) - Marketplace connecting brands with podcast hosts for integrated sponsorships.
+- [plug.dev](https://plug.dev) - Platform connecting developer tool companies with developer influencers for campaigns across YouTube, Twitter/X, LinkedIn, and newsletters.
 
 ## Developer Newsletters for Sponsorship
 
@@ -66,6 +67,11 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Hacker Newsletter](https://hackernewsletter.com) - Weekly curated digest of the top stories from Hacker News.
 - [Software Lead Weekly](https://softwareleadweekly.com) - Weekly newsletter for engineering managers and technical leaders.
 - [This Week in React](https://thisweekinreact.com) - Weekly newsletter covering React, React Native, and the surrounding ecosystem.
+- [Quastor](https://www.quastor.org) - Backend engineering newsletter covering system design, data engineering, and distributed systems.
+- [iOS Dev Weekly](https://iosdevweekly.com) - Hand-picked roundup of the best iOS development links delivered weekly.
+- [Last Week in AWS](https://www.lastweekinaws.com/newsletter) - Weekly newsletter covering AWS news, changes, and cloud infrastructure updates.
+- [CSS Weekly](https://css-weekly.com) - Weekly roundup of CSS articles, tutorials, experiments, and tools.
+- [Kotlin Weekly](http://www.kotlinweekly.net) - Weekly newsletter covering Kotlin development, libraries, and ecosystem news.
 
 ## Content Marketing Platforms
 
@@ -79,6 +85,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DZone](https://dzone.com) - Developer knowledge platform with community-contributed articles on Java, DevOps, and cloud.
 - [InfoQ](https://www.infoq.com) - Technology media platform covering software development practices and architecture.
 - [SitePoint](https://www.sitepoint.com) - Web development publisher with tutorials, books, and community forums.
+- [daily.dev Squads](https://docs.daily.dev/docs/squads/creating-your-squad) - Group publishing feature on daily.dev for creating developer-focused communities around topics, projects, or teams.
 
 ## Newsletter Platforms
 
@@ -202,6 +209,8 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [State of JS](https://stateofjs.com) - Annual survey tracking JavaScript ecosystem trends, frameworks, and developer satisfaction.
 - [State of CSS](https://stateofcss.com) - Annual survey on CSS features, tooling, and developer preferences.
 - [Evans Data Developer Survey](https://evansdata.com) - Developer population research covering global workforce trends and technology adoption.
+- [DORA State of DevOps Report](https://dora.dev) - Google's annual research on DevOps practices, team performance, and software delivery metrics.
+- [RedMonk Programming Language Rankings](https://redmonk.com/sogrady/category/programming-languages/) - Quarterly language popularity rankings based on GitHub and Stack Overflow activity.
 
 ## Social Media for Developers
 
@@ -214,9 +223,9 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Typefully](https://typefully.com) - Writing and scheduling tool for crafting Twitter/X threads and LinkedIn posts.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics platform for managing multi-channel posting.
 
-## Video and Podcasting
+## Video and Streaming Tools
 
-*Tools and shows for creating developer-focused video and audio content.*
+*Tools for creating developer-focused video and audio content.*
 
 - [Loom](https://www.loom.com) - Screen and video recording tool commonly used for developer product demos and walkthroughs.
 - [OBS Studio](https://obsproject.com) - Free open source software for video recording and live streaming.
@@ -224,8 +233,6 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Riverside](https://riverside.fm) - Remote podcast and video recording platform with separate high-quality audio tracks.
 - [StreamYard](https://streamyard.com) - Browser-based live streaming studio for webinars and developer events.
 - [Transistor](https://transistor.fm) - Podcast hosting platform with analytics and support for multiple shows under one account.
-- [Scaling DevTools](https://www.scalingdevtools.com) - Podcast with interviews on building and growing developer tool companies.
-- [Community Pulse](https://www.communitypulse.io) - Podcast covering community management and developer advocacy topics.
 
 ## Events and Conferences
 
@@ -239,6 +246,31 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DeveloperWeek](https://www.developerweek.com) - Multi-track developer conference with workshops, hiring fair, and product showcases.
 - [Collision](https://collisionconf.com) - Technology conference in Toronto with developer and SaaS-focused programming.
 - [All Things Open](https://allthingsopen.org) - Open source technology conference covering community, adoption, and developer tooling.
+
+## Developer Marketing Agencies
+
+*Agencies and consultancies specializing in marketing to developer audiences.*
+
+- [Catchy](https://catchyagency.com) - Full-cycle developer marketing agency offering GTM strategy, demand generation, and developer experience services.
+- [Draft.dev](https://draft.dev) - Technical content agency with a network of 300+ engineer-writers producing blog posts, tutorials, and video for developer tool companies.
+- [Dev Spotlight](https://devspotlight.com) - Enterprise-focused technical content production covering blogs, whitepapers, ebooks, and tutorials.
+- [DevRel Bridge](https://devrelbridge.com) - Fractional DevRel agency providing content, community, events, and DX strategy without long-term contracts.
+- [Hoopy](https://hoopy.io) - DevRel consultancy offering strategy, audits, training, and content production, known for running the DevRelCon event series.
+- [DevRel.Agency](https://devrel.agency) - Developer experience audits and developer-led growth consulting, also runs the annual State of Developer Relations survey.
+- [Devrella](https://devrella.com) - Boutique agency focused on developer marketing, branding, and community adoption for developer-first SaaS startups.
+- [Growtika](https://growtika.com) - Developer-focused marketing agency specializing in B2D strategy, SEO, and technical content.
+- [Freeman & Forrest](https://freemanandforrest.com) - Tech influencer marketing agency with an outcomes-based pricing model for event promotion and social campaigns.
+- [Literally.dev](https://literally.dev) - Agency specializing in technical documentation, example applications, and developer adoption strategy.
+- [Hackmamba](https://hackmamba.io) - Technical content marketing agency with a focus on documentation-driven growth and developer SEO.
+- [ércule](https://ercule.com) - Content strategy agency focused on SEO, analytics, and editorial workflows for technology companies.
+- [Wizard on Demand](https://wizardondemand.com) - Boutique agency offering content marketing and paid media services for developer tools.
+- [Campfire Labs](https://campfirelabs.co) - Agency producing technical thought leadership content for technology companies.
+- [Growth Plays](https://growthplays.com) - GTM strategy and content consultancy for technical B2B SaaS companies.
+- [Infrasity](https://infrasity.com) - Technical content marketing agency offering startup-friendly pricing for B2B SaaS.
+- [Open Strategy Partners](https://openstrategypartners.com) - B2B technology marketing agency specializing in messaging, content strategy, and thought leadership.
+- [DeveloperMedia](https://developermedia.com) - Media company focused on reaching developer decision-makers through advertising and audience research.
+- [Meridian DevRel](https://meridiandevrel.com) - Fractional DevRel leadership and content creation with tiered monthly packages.
+- [Edify Content](https://edifycontent.com) - Technical content agency with a credit-based pricing model focused on landing pages and lead generation.
 
 ## Case Studies
 
@@ -263,8 +295,9 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Developer, Advocate!](https://www.packtpub.com/en-us/product/developer-advocate-9781789138740) - Conversations with developer advocates about building careers in DevRel, edited by Geertjan Wielenga.
 - [Developer Relations](https://www.devrelbook.com) - Caroline Lewko and James Parton's guide to building and growing a developer relations program.
 - [Getting Started in Developer Relations](https://www.samjulien.com) - Sam Julien's ebook on breaking into and succeeding in developer relations.
+- [Picks and Shovels](https://www.strategicnerds.com/book) - Prashant Sridharan's guide to marketing developer tools during the AI era.
 
-## Blogs and Newsletters
+## Blogs, Newsletters, and Podcasts
 
 *Ongoing publications about developer marketing strategy and practice.*
 
@@ -276,6 +309,8 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DevRelX](https://www.devrelx.com) - Research and articles on developer relations trends, tools, and program strategy.
 - [Every Developer](https://everydeveloper.com) - Developer marketing strategy blog and resources by Adam DuVander.
 - [Developer Avocados Weekly](https://developeravocados.net) - Weekly newsletter curating developer advocacy and DevRel resources.
+- [Scaling DevTools](https://www.scalingdevtools.com) - Podcast with interviews on building and growing developer tool companies.
+- [Community Pulse](https://www.communitypulse.io) - Podcast covering community management and developer advocacy topics.
 
 ## Guides and Frameworks
 
