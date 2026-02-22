@@ -50,6 +50,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Passionfroot](https://www.passionfroot.me) - Platform for booking sponsorships with developer content creators and newsletters.
 - [AdvertiseCast](https://www.advertisecast.com) - Podcast advertising marketplace with tech and developer show inventory.
 - [Podcorn](https://podcorn.com) - Marketplace connecting brands with podcast hosts for integrated sponsorships.
+- [plug.dev](https://plug.dev) - Platform connecting developer tool companies with developer influencers for campaigns across YouTube, Twitter/X, LinkedIn, and newsletters.
 
 ## Developer Newsletters for Sponsorship
 
