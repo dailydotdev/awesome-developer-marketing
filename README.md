@@ -21,12 +21,12 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Analytics and Attribution](#analytics-and-attribution)
 - [Market Research](#market-research)
 - [Social Media for Developers](#social-media-for-developers)
-- [Video and Podcasting](#video-and-podcasting)
+- [Video and Streaming Tools](#video-and-streaming-tools)
 - [Events and Conferences](#events-and-conferences)
 - [Developer Marketing Agencies](#developer-marketing-agencies)
 - [Case Studies](#case-studies)
 - [Books](#books)
-- [Blogs and Newsletters](#blogs-and-newsletters)
+- [Blogs, Newsletters, and Podcasts](#blogs-newsletters-and-podcasts)
 - [Guides and Frameworks](#guides-and-frameworks)
 
 ## Developer Advertising Platforms
@@ -215,9 +215,9 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Typefully](https://typefully.com) - Writing and scheduling tool for crafting Twitter/X threads and LinkedIn posts.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics platform for managing multi-channel posting.
 
-## Video and Podcasting
+## Video and Streaming Tools
 
-*Tools and shows for creating developer-focused video and audio content.*
+*Tools for creating developer-focused video and audio content.*
 
 - [Loom](https://www.loom.com) - Screen and video recording tool commonly used for developer product demos and walkthroughs.
 - [OBS Studio](https://obsproject.com) - Free open source software for video recording and live streaming.
@@ -225,8 +225,6 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Riverside](https://riverside.fm) - Remote podcast and video recording platform with separate high-quality audio tracks.
 - [StreamYard](https://streamyard.com) - Browser-based live streaming studio for webinars and developer events.
 - [Transistor](https://transistor.fm) - Podcast hosting platform with analytics and support for multiple shows under one account.
-- [Scaling DevTools](https://www.scalingdevtools.com) - Podcast with interviews on building and growing developer tool companies.
-- [Community Pulse](https://www.communitypulse.io) - Podcast covering community management and developer advocacy topics.
 
 ## Events and Conferences
 
@@ -290,7 +288,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Developer Relations](https://www.devrelbook.com) - Caroline Lewko and James Parton's guide to building and growing a developer relations program.
 - [Getting Started in Developer Relations](https://www.samjulien.com) - Sam Julien's ebook on breaking into and succeeding in developer relations.
 
-## Blogs and Newsletters
+## Blogs, Newsletters, and Podcasts
 
 *Ongoing publications about developer marketing strategy and practice.*
 
@@ -302,6 +300,8 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [DevRelX](https://www.devrelx.com) - Research and articles on developer relations trends, tools, and program strategy.
 - [Every Developer](https://everydeveloper.com) - Developer marketing strategy blog and resources by Adam DuVander.
 - [Developer Avocados Weekly](https://developeravocados.net) - Weekly newsletter curating developer advocacy and DevRel resources.
+- [Scaling DevTools](https://www.scalingdevtools.com) - Podcast with interviews on building and growing developer tool companies.
+- [Community Pulse](https://www.communitypulse.io) - Podcast covering community management and developer advocacy topics.
 
 ## Guides and Frameworks
 
