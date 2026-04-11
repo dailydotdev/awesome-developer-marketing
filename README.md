@@ -160,6 +160,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [CNCF Landscape](https://landscape.cncf.io) - Interactive map of cloud native technologies that many developer tools aim to be listed on.
 - [Hacktoberfest](https://hacktoberfest.com) - Annual October event encouraging open source contributions, used by projects to attract new contributors.
 - [Good First Issues](https://goodfirstissues.com) - Aggregator of beginner-friendly open source issues for attracting new contributors to a project.
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows for developer-focused products.
 - [Thanks.dev](https://thanks.dev) - Automated funding distribution to the open source dependencies a project relies on.
 
 ## Product-Led Growth
@@ -324,4 +325,3 @@ The usual marketing tactics don't work on developers. They decide what to use by
 ## Contributing
 
 Please read the [contribution guidelines](contributing.md) before submitting a pull request.
-
