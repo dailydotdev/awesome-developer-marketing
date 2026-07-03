@@ -72,7 +72,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Last Week in AWS](https://www.lastweekinaws.com/newsletter) - Weekly newsletter covering AWS news, changes, and cloud infrastructure updates.
 - [CSS Weekly](https://css-weekly.com) - Weekly roundup of CSS articles, tutorials, experiments, and tools.
 - [Kotlin Weekly](http://www.kotlinweekly.net) - Weekly newsletter covering Kotlin development, libraries, and ecosystem news.
-
+  
 ## Content Marketing Platforms
 
 *Platforms for publishing technical content to reach developer audiences.*
@@ -311,6 +311,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Developer Avocados Weekly](https://developeravocados.net) - Weekly newsletter curating developer advocacy and DevRel resources.
 - [Scaling DevTools](https://www.scalingdevtools.com) - Podcast with interviews on building and growing developer tool companies.
 - [Community Pulse](https://www.communitypulse.io) - Podcast covering community management and developer advocacy topics.
+- [Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A daily-updated directory of tech newsletters covering latest frameworks, B2B Saas and developer marketing strategies.
 
 ## Guides and Frameworks
 
