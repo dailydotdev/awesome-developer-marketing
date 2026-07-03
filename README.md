@@ -72,8 +72,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Last Week in AWS](https://www.lastweekinaws.com/newsletter) - Weekly newsletter covering AWS news, changes, and cloud infrastructure updates.
 - [CSS Weekly](https://css-weekly.com) - Weekly roundup of CSS articles, tutorials, experiments, and tools.
 - [Kotlin Weekly](http://www.kotlinweekly.net) - Weekly newsletter covering Kotlin development, libraries, and ecosystem news.
-- [Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A daily-updated directory of tech newsletters covering latest frameworks, B2B Saas and developer marketing strategies.
-
+  
 ## Content Marketing Platforms
 
 *Platforms for publishing technical content to reach developer audiences.*
