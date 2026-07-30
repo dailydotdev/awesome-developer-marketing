@@ -197,6 +197,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Heap](https://www.heap.io) - Auto-capture analytics that records all user interactions without manual event instrumentation.
 - [Clearbit](https://clearbit.com) - Data enrichment platform for identifying companies visiting your documentation and marketing pages.
 - [UTM.io](https://utm.io) - UTM parameter management tool for consistent campaign tracking across marketing channels.
+- [Klinky](https://klinky.io) - A/B testing link shortener that splits one campaign link between two destinations with real-time click analytics and a REST API.
 
 ## Market Research
 
