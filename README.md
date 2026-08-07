@@ -222,6 +222,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Bluesky](https://bsky.app) - Decentralized social network with growing adoption among developers and open source maintainers.
 - [Typefully](https://typefully.com) - Writing and scheduling tool for crafting Twitter/X threads and LinkedIn posts.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics platform for managing multi-channel posting.
+- [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your own voice, clips long video, and schedules to five networks.
 
 ## Video and Streaming Tools
 
