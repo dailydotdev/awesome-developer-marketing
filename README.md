@@ -222,6 +222,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Bluesky](https://bsky.app) - Decentralized social network with growing adoption among developers and open source maintainers.
 - [Typefully](https://typefully.com) - Writing and scheduling tool for crafting Twitter/X threads and LinkedIn posts.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics platform for managing multi-channel posting.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Agent skills and API/MCP workflows for adapting, scheduling, and publishing approved developer-focused content across social platforms.
 
 ## Video and Streaming Tools
 
@@ -324,4 +325,3 @@ The usual marketing tactics don't work on developers. They decide what to use by
 ## Contributing
 
 Please read the [contribution guidelines](contributing.md) before submitting a pull request.
-
