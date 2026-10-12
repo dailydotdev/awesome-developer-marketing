@@ -261,7 +261,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Growtika](https://growtika.com) - Developer-focused marketing agency specializing in B2D strategy, SEO, and technical content.
 - [Freeman & Forrest](https://freemanandforrest.com) - Tech influencer marketing agency with an outcomes-based pricing model for event promotion and social campaigns.
 - [Literally.dev](https://literally.dev) - Agency specializing in technical documentation, example applications, and developer adoption strategy.
-- [Hackmamba](https://hackmamba.io) - Technical content marketing agency with a focus on documentation-driven growth and developer SEO.
+- [Hackmamba](https://hackmamba.io) - A developer growth agency offering technical content, SEO, paid media, DevRel, and creator-led programs.
 - [ércule](https://ercule.com) - Content strategy agency focused on SEO, analytics, and editorial workflows for technology companies.
 - [Wizard on Demand](https://wizardondemand.com) - Boutique agency offering content marketing and paid media services for developer tools.
 - [Campfire Labs](https://campfirelabs.co) - Agency producing technical thought leadership content for technology companies.
