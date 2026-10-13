@@ -197,6 +197,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Heap](https://www.heap.io) - Auto-capture analytics that records all user interactions without manual event instrumentation.
 - [Clearbit](https://clearbit.com) - Data enrichment platform for identifying companies visiting your documentation and marketing pages.
 - [UTM.io](https://utm.io) - UTM parameter management tool for consistent campaign tracking across marketing channels.
+- [Apstal](https://apstal.com) - Privacy-friendly web analytics with session replay, funnels, and an AI assistant for plain-language traffic queries.
 
 ## Market Research
 
