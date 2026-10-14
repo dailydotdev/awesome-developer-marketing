@@ -197,6 +197,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Heap](https://www.heap.io) - Auto-capture analytics that records all user interactions without manual event instrumentation.
 - [Clearbit](https://clearbit.com) - Data enrichment platform for identifying companies visiting your documentation and marketing pages.
 - [UTM.io](https://utm.io) - UTM parameter management tool for consistent campaign tracking across marketing channels.
+- [looot-reveal](https://github.com/loootai/looot-reveal) - Open-source app that turns visitor IP addresses into the companies visiting your site, company-level only, using a paid looot API key for live data.
 
 ## Market Research
 
