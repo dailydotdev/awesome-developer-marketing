@@ -34,7 +34,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 *Paid ad networks and platforms for reaching developer audiences.*
 
 - [BuySellAds](https://www.buysellads.com) - Ad marketplace connecting advertisers with developer and tech publisher inventory, also operates the Carbon Ads network.
-- [daily.dev Ads](https://business.daily.dev) - Native advertising platform for reaching developers through in-feed and email digest placements across the daily.dev network.
+- [daily.dev Ads](https://business.daily.dev) - Native advertising on daily.dev, sold as a managed monthly plan covering in-feed posts, newsletter placements, a verified company page, and homepage sponsorship, targeted by stack, seniority, and region.
 - [EthicalAds](https://www.ethicalads.io) - Privacy-focused ad network for developer sites, run by the team behind Read the Docs.
 - [Stack Overflow Advertising](https://stackoverflow.co/advertising) - Advertising products targeting developers by technology tags on Stack Overflow.
 - [Reddit Ads](https://ads.reddit.com) - Self-serve advertising platform with targeting for programming and technology subreddits.
@@ -56,7 +56,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 *Newsletters reaching developer audiences that accept sponsorships or advertising.*
 
 - [TLDR](https://tldr.tech) - Daily newsletter covering tech, startups, and programming with topic-specific editions for AI, web dev, DevOps, and more.
-- [daily.dev Digest](https://daily.dev) - Personalized developer content digest reaching 1.6M+ developers weekly.
+- [daily.dev Digest](https://business.daily.dev/email/) - Personalized developer news digest, sent daily or weekly, with sponsorship slots sold by topic audience.
 - [JavaScript Weekly](https://javascriptweekly.com) - Weekly JavaScript and web development news roundup, part of the Cooper Press network.
 - [Bytes](https://bytes.dev) - Twice-weekly JavaScript and web development newsletter with a conversational style.
 - [PyCoder's Weekly](https://pycoders.com) - Weekly Python newsletter covering articles, tools, and job listings.
@@ -320,6 +320,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Community-Led Growth by Commsor](https://www.commsor.com) - Framework and resources for using developer community as a growth engine.
 - [How to Market to Developers by Heavybit](https://www.heavybit.com/library/blog/how-to-market-to-developers) - Practical primer on developer marketing fundamentals from the Heavybit accelerator.
 - [DevRel Collective Resources](https://devrelcollective.fun) - Community-curated collection of developer relations tools, articles, and speaking resources.
+- [How to Advertise to Developers by Audience](https://business.daily.dev/audience/) - Guides to reaching 30 developer audiences by role and language, with the tags, channels, and formats for each.
 
 ## Contributing
 
