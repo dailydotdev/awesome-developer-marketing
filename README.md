@@ -40,6 +40,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Reddit Ads](https://ads.reddit.com) - Self-serve advertising platform with targeting for programming and technology subreddits.
 - [Google Ads](https://ads.google.com) - Search and display advertising with keyword targeting for developer-related queries.
 - [LinkedIn Ads](https://business.linkedin.com/marketing-solutions) - Professional network advertising with job title and skills-based targeting for technical roles.
+- [X Ads](https://business.x.com/en/advertising) - Self-serve advertising on X with keyword, interest, and follower look-alike targeting.
 
 ## Sponsorship Marketplaces
 
