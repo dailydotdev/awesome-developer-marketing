@@ -150,6 +150,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Moesif](https://www.moesif.com) - API analytics and monitoring platform for understanding developer usage patterns.
 - [Postman](https://www.postman.com) - API development platform for designing, testing, documenting, and sharing APIs.
 - [Stoplight](https://stoplight.io) - API design and governance platform with collaborative editing and style guides.
+- [Septra](https://septra.ai) - Septra deploys autonomous AI agents for marketing, reporting and growth, grounded in your real business data.
 
 ## Open Source Marketing
 
