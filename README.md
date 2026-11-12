@@ -41,6 +41,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Google Ads](https://ads.google.com) - Search and display advertising with keyword targeting for developer-related queries.
 - [LinkedIn Ads](https://business.linkedin.com/marketing-solutions) - Professional network advertising with job title and skills-based targeting for technical roles.
 - [X Ads](https://business.x.com/en/advertising) - Self-serve advertising on X with keyword, interest, and follower look-alike targeting.
+- [distribution.dev](https://distribution.dev) - Developer ad network that runs one campaign across independent developer sites, newsletters, AI chats and coding agents, with reporting per site.
 
 ## Sponsorship Marketplaces
 
