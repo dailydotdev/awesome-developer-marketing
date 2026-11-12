@@ -322,6 +322,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [How to Market to Developers by Heavybit](https://www.heavybit.com/library/blog/how-to-market-to-developers) - Practical primer on developer marketing fundamentals from the Heavybit accelerator.
 - [DevRel Collective Resources](https://devrelcollective.fun) - Community-curated collection of developer relations tools, articles, and speaking resources.
 - [How to Advertise to Developers by Audience](https://business.daily.dev/audience/) - Guides to reaching 30 developer audiences by role and language, with the tags, channels, and formats for each.
+- [Product Hunt or Show HN: where should a developer launch first?](https://launchloop.dev/blog/product-hunt-vs-show-hn) - A side-by-side of Product Hunt and Show HN launch rules, with one launch text run through both title checkers, to help developers choose where to launch first.
 
 ## Contributing
 
