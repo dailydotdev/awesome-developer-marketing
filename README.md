@@ -63,7 +63,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Bytes](https://bytes.dev) - Twice-weekly JavaScript and web development newsletter with a conversational style.
 - [PyCoder's Weekly](https://pycoders.com) - Weekly Python newsletter covering articles, tools, and job listings.
 - [Cooper Press](https://cooperpress.com) - Publisher of language-specific newsletters including Node Weekly, Golang Weekly, Ruby Weekly, and React Status.
-- [Changelog](https://changelog.com/weekly) - Weekly newsletter covering open source and software development news.
+- [Changelog News](https://changelog.com/news) - Weekly newsletter and podcast covering open source and software development news.
 - [Real Python](https://realpython.com/newsletter) - Weekly Python tips and tutorials newsletter for Python developers.
 - [Console](https://console.dev) - Weekly newsletter highlighting new and interesting developer tools.
 - [Hacker Newsletter](https://hackernewsletter.com) - Weekly curated digest of the top stories from Hacker News.
@@ -207,10 +207,10 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Stack Overflow Developer Survey](https://survey.stackoverflow.co) - Annual survey covering developer tools, technologies, compensation, and work preferences.
 - [GitHub Octoverse](https://octoverse.github.com) - Annual report on open source development activity and language trends across GitHub.
 - [SlashData Developer Nation](https://www.slashdata.co) - Bi-annual survey of global developer populations segmented by language, platform, and region.
-- [JetBrains Developer Ecosystem Survey](https://www.jetbrains.com/lp/devecosystem/) - Annual survey covering programming language adoption, tools, and development practices.
+- [JetBrains Developer Ecosystem Survey](https://devecosystem-2025.jetbrains.com/) - Annual survey covering programming language adoption, tools, and development practices.
 - [State of JS](https://stateofjs.com) - Annual survey tracking JavaScript ecosystem trends, frameworks, and developer satisfaction.
 - [State of CSS](https://stateofcss.com) - Annual survey on CSS features, tooling, and developer preferences.
-- [Evans Data Developer Survey](https://evansdata.com) - Developer population research covering global workforce trends and technology adoption.
+- [Evans Data Developer Survey](http://evansdata.com) - Developer population research covering global workforce trends and technology adoption.
 - [DORA State of DevOps Report](https://dora.dev) - Google's annual research on DevOps practices, team performance, and software delivery metrics.
 - [RedMonk Programming Language Rankings](https://redmonk.com/sogrady/category/programming-languages/) - Quarterly language popularity rankings based on GitHub and Stack Overflow activity.
 
@@ -320,8 +320,8 @@ The usual marketing tactics don't work on developers. They decide what to use by
 
 - [The Developer Advocacy Handbook](https://developer-advocacy.com) - Christian Heilmann's free online guide to developer advocacy practices and strategy.
 - [Community-Led Growth by Commsor](https://www.commsor.com) - Framework and resources for using developer community as a growth engine.
-- [How to Market to Developers by Heavybit](https://www.heavybit.com/library/blog/how-to-market-to-developers) - Practical primer on developer marketing fundamentals from the Heavybit accelerator.
-- [DevRel Collective Resources](https://devrelcollective.fun) - Community-curated collection of developer relations tools, articles, and speaking resources.
+- [Marketing to Developers is Not Hard by Heavybit](https://www.heavybit.com/library/article/marketing-to-developers-is-not-hard) - Practical primer on developer marketing fundamentals from the Heavybit accelerator.
+- [DevRel Collective Resources](https://github.com/devrelcollective/awesome-devrel) - Community-curated collection of developer relations tools, articles, and speaking resources.
 - [How to Advertise to Developers by Audience](https://business.daily.dev/audience/) - Guides to reaching 30 developer audiences by role and language, with the tags, channels, and formats for each.
 
 ## Contributing
