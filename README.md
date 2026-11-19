@@ -119,6 +119,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 *Where developers spend their time online and find new tools.*
 
 - [daily.dev](https://app.daily.dev) - Developer content network where millions of developers find programming news and tools.
+- [daily.dev for Startups](https://daily.dev/startups/) - Developer distribution for founders who build for developers: a company page on daily.dev and posts in developers' feeds by topic, which an AI agent can run.
 - [Hacker News](https://news.ycombinator.com) - Y Combinator's link aggregation and discussion forum for technology and startups.
 - [Reddit](https://www.reddit.com) - Social platform with active developer subreddits including r/programming, r/webdev, r/devops, and r/experienceddevs.
 - [Stack Overflow](https://stackoverflow.com) - Q&A platform where developers ask and answer technical questions across every major language and framework.
