@@ -306,7 +306,6 @@ The usual marketing tactics don't work on developers. They decide what to use by
 
 - [daily.dev Business Blog](https://business.daily.dev/resources) - Articles on developer marketing strategy, campaign planning, and reaching technical audiences.
 - [Developer Markepear](https://www.developermarkepear.com/blog) - Newsletter on developer marketing with real examples and campaign breakdowns by Flo Merian.
-- [DevRel Weekly](https://devrelweekly.com) - Weekly newsletter curating articles about developer relations, community, and advocacy.
 - [Draft.dev Blog](https://draft.dev/learn) - Guides on technical content marketing for developer-focused companies.
 - [Scaling DevTools Newsletter](https://newsletter.scalingdevtools.com) - Newsletter about building and growing developer tool businesses.
 - [DevRelX](https://www.devrelx.com) - Research and articles on developer relations trends, tools, and program strategy.
