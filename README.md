@@ -106,6 +106,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 *Tools for building developer documentation that doubles as a marketing and adoption channel.*
 
 - [Mintlify](https://mintlify.com) - Documentation platform with built-in analytics, optimized for developer tools and APIs.
+- [Docsalot](https://docsalot.dev) - Documentation platform that publishes one knowledge base for developers and AI agents, including llms.txt, skill.md, and a hosted MCP server.
 - [ReadMe](https://readme.com) - API documentation and developer hub platform with usage analytics and personalization.
 - [Docusaurus](https://docusaurus.io) - Open source documentation site generator by Meta, widely used for technical docs.
 - [GitBook](https://www.gitbook.com) - Documentation platform with collaborative editing and Git sync.
