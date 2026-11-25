@@ -236,6 +236,7 @@ The usual marketing tactics don't work on developers. They decide what to use by
 - [Riverside](https://riverside.fm) - Remote podcast and video recording platform with separate high-quality audio tracks.
 - [StreamYard](https://streamyard.com) - Browser-based live streaming studio for webinars and developer events.
 - [Transistor](https://transistor.fm) - Podcast hosting platform with analytics and support for multiple shows under one account.
+- [Valmera website demo recorder](https://valmera.io/tools/record-website-demo) - Records scripted interactions on public docs and product pages for developer walkthroughs, with a timed click and scroll track for editing.
 
 ## Events and Conferences
 
